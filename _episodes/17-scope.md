@@ -1,0 +1,80 @@
+{: .language-python}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{: .output}
+
+
+
+
+
+
+{: .error}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{: .challenge}
+
+> ## Leggere i messaggi di errore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+> {: .error}
+{: .challenge}
+
